@@ -1,2 +1,3 @@
 # hello-world
-what it says
+
+this is, of course, the starting point...
